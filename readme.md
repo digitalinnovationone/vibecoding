@@ -23,19 +23,18 @@
   <tr>
     <td>
         <p align="center">Expert</p>
-        <a href="https://github.com/felipeAguiarCode">
-        <img src="https://avatars0.githubusercontent.com/u/37452836?v=3&s=115" alt="@felipeAguiarCode"><br>
+        <a href="https://github.com/hsouzaeduardo">
+        <img src=https://avatars.githubusercontent.com/u/1692867?s=400&u=b408cc35aea6b0b2cd69ba3745dbd134edd7ac8a&v=4" alt="@felipeAguiarCode"><br>
       </a>
     </td>
     <td colspan="3">
-    <p>🎉 10y+ em sistemas comerciais com .NET C# e NODE.JS.
-      <br/>
-     🌟 Desenvolvedor fullstack - Coordenador de educação na DIO
-      <br/>
-    👨‍💻 Foco em front-ends SPA com React, Angular e Vue.js
+    <p>Especialista em Soluções distribuídas e Cloud, pós-graduado em Engenharia de Software, MBA em Arquitetura de Soluções e Dados &IA. Atuando há 25 anos com softwares para web, Mobile, Cloud, IoT, IIoT, e softwares embarcados. Atualmente atuando como Gerente de Arquitetura e inteligência Artificial . Instrutor Oficial Microsoft há mais de 10 anos, Microsoft MVP e apaixonado por tecnologia, inovação e defensor de que um bom feedback constrói gigantes e que todos merecem oportunidades e criador da fórmula:
+  R = (T + D + TD)²
+
+  Resultado = (Tempo + dedicação + Trabalho Duro)
     </p>
       <a 
-      href="https://www.linkedin.com/in/felipe-me/" 
+      href="https://www.linkedin.com/in/hsouzaeduardo/" 
       align="center">
            <img 
             align="center" 
@@ -43,7 +42,7 @@
             src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
             >
         </a>
-        <a href="https://www.instagram.com/felipeaguiar.exe/" target="_blank">
+        <a href="https://www.instagram.com/hsouzaeduardo81/" target="_blank">
             <img 
               align="center" 
               alt="Instagram" 
@@ -61,42 +60,27 @@
 
 ## 💻 Sobre o Projeto
 
-Vamos construir uma página spa, responsiva, para usar em diversos tipos de micro, pequena e média empresas. Contém as seguintes seções: Header, Navigation, Home, Sobre, Serviços, Depoimentos, Contato e Footer que faz xxx e yyy
+Este projeto é um revisor automático de qualidade de código para Pull Requests do Azure DevOps, que integra Azure OpenAI para analisar arquivos modificados e gerar relatórios sobre segurança, desempenho, confiabilidade e manutenibilidade. Ele funciona clonando o repositório, identificando os arquivos alterados, dividindo-os em blocos e submetendo cada trecho ao modelo de IA, que retorna achados em formato JSON estruturado. Esses resultados são consolidados em relatórios (report.json e report.md) e, opcionalmente, publicados como comentários no próprio PR, fornecendo feedback imediato e padronizado para a equipe de desenvolvimento
 
 ## 📚 Pré-requisitos de Habilidades e Níveis de Conhecimento
 
 Antes de ingressar neste conteúdo, é necessário possuir conhecimento prévio nas seguintes áreas:
 
-- [habilidades ou conhecimentos prévios necessários] | [Básico, Intermediário, Avançado ou Especialista]
-
-- _Exemplo_:
-
-  - Java | Básico
-  - Gerenciamento de pacotes | Básico
-  -
+- [Python] | [Básico]
 
 - [Outros pré-requisitos, se aplicável]
-
-- _Exemplo_:
   - Lógica de programação
-  - Javascript
+  - Consumo de APIs
+  - Azure Devops
 
 ## 🛠️ Habilidades e Sub-habilidades que vamos aprender neste conteúdo
 
 - [Lista das habilidades principais a serem desenvolvidas]
 
-  - [Subhabilidades relacionadas, se aplicável]
-
 - _Exemplo_:
-  - Java
+  - Python
     - Api Rest
-
-## 🎯 Objetivos e Resultados Esperados
-
-Após a conclusão do curso/projeto, os estudantes estarão aptos a:
-
-- [Descrição do que os estudantes serão capazes de fazer]
-- [Projetos ou soluções que os estudantes estarão aptos a construir]
+    - OpenAI
 
 <!--START_SECTION:footer-->
 
