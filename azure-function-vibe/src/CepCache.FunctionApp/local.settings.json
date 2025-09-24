@@ -1,0 +1,12 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet-isolated",
+    "ViaCep__BaseUrl": "",
+    "Cosmos__ConnectionString": "suaconexao;",
+    "Cosmos__DatabaseId": "seuDB",
+    "Cosmos__ContainerId": "SeuContainer",
+    "Cache__TtlMinutes": "1440"
+  }
+}
